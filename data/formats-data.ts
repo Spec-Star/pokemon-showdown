@@ -6148,4 +6148,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+    slowpose: {
+        tier: "UU",
+    },
+    slowtow: {
+        tier: "UU",
+    },
 };
